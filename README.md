@@ -1,5 +1,8 @@
 <div align="center">
 
+
+![cover](assets/cover.png)
+
 # document-content-search
 
 **记得内容不记得文件名？飞书 drive+search 全文检索（连 PPTX 正文都能搜）。**
